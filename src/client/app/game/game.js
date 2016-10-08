@@ -1,7 +1,7 @@
 var level1 = require('./level1.js');
 
 export default function(userInput) {
-  level1(userInput);
+  level2(userInput);
 }
 //
 // var createGame = (userInput) => {
